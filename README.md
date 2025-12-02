@@ -21,5 +21,5 @@ O projeto visa criar um banco de dados relacional para uma loja de autopeças e 
 3. Verifique os resultados na saída do console do seu SGBD.
 
 ## 👨‍💻 Autor
-[Seu Nome Completo]
-[Seu RA ou Turma]
+[Jeferson SILVA Garcia]
+[1646148612/Turma 005]
